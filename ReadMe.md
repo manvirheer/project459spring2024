@@ -4,7 +4,8 @@ Repository to be used for CMPT 459 Spring 2024
  - Manvir Heer
    - msh16@sfu.ca
    - 301448411
-- 
--
+- Sunil Mann
+  - sunilm@sfu.ca
+  - 301398041
 
 
