@@ -65,8 +65,8 @@ def print_hashmap(hashmap):
 
 
 countries_hashmap = create_hashmap_countries_continent_mapping(
-    open_file('./../../added_reference_files/countries_continent_mapping.csv'))
-cases_hashmap = create_hashmap_training_data(open_file('./../../../../project_desc_files/csvs/cases_2021_train.csv'))
+    open_file('../added_reference_files/countries_continent_mapping.csv'))
+cases_hashmap = create_hashmap_training_data(open_file('../../project_desc_files/csvs/cases_2021_train.csv'))
 
 continent_cases_hashmap = continent_cases(countries_hashmap, cases_hashmap)
 print_hashmap(continent_cases_hashmap)
