@@ -1,6 +1,8 @@
 import csv
 import pandas as pd
 import plotly.express as px
+import geopandas as gpd
+import matplotlib.pyplot as plt
 import requests as req
 # lib to make string url safe
 import urllib.parse
@@ -209,10 +211,34 @@ def create_bar_graph(countries_dict):
     fig.show()
 
 
+def create_heatmap(data):
+    # Convert the dictionary data into a Pandas DataFrame
+    df = pd.DataFrame.from_dict(data, orient='index').reset_index().rename(columns={'index': 'country'})
+    if isinstance(df['data_availability'], str):
+        df['data_availability'] = df['data_availability'].str.rstrip('%').astype('float') 
+    else:
+        df['data_availability'] = df['data_availability'].astype('float')
+
+    # Load the world map
+    world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+
+    # Merge your data with the world GeoDataFrame
+    world = world.merge(df, how="left", left_on="name", right_on="country")
+
+    # Plotting
+    fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+    world.boundary.plot(ax=ax)
+    world.plot(column='data_availability', ax=ax, legend=True,
+               legend_kwds={'label': "Data Availability (%)",
+                            'orientation': "horizontal"})
+    plt.show()
+
+
 combined_DF = combine_test_train()
 processed_combined_data = process_combined_data(combined_DF)
 read_locationsCSV()
 add_countries_data_availability(countries_dict)
+create_heatmap(countries_dict)
 # print those countries which are having 0 population
 count_cases = 0
 for country in countries_dict:
