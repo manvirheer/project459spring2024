@@ -1,0 +1,243 @@
+province,country,Cases_Count
+,Angola,4
+,Burkina Faso,3
+,Cabo Verde,4
+,Cameroon,78
+,Central African Republic,1
+,Djibouti,3
+,Egypt,4
+,Eritrea,6
+,Eswatini,9
+,Ethiopia,7
+,Gabon,6
+,Gambia,6
+,Ghana,347
+,Guinea,8
+,Guinea-Bissau,2
+,Guyana,2
+,India,37
+,Kenya,14
+,Malaysia,2
+,Mozambique,7
+,Nepal,2
+,Philippines,159
+,Romania,7
+,San Marino,1
+,Singapore,118
+,South Korea,4
+,Sudan,5
+,Tanzania,13
+,Togo,15
+,United Arab Emirates,2
+,Vietnam,2
+,Zambia,22
+Abra,Philippines,3
+Abuja,Nigeria,30
+Addis Ababa,Ethiopia,76
+Afar,Ethiopia,10
+Agusan Del Norte,Philippines,3
+Aklan,Philippines,4
+Akwa Ibom,Nigeria,6
+Albay,Philippines,10
+Amhara,Ethiopia,4
+Anambra,Nigeria,1
+Andaman and Nicobar Islands,India,55
+Andhra Pradesh,India,6658
+Anhui,China,2
+Antique,Philippines,16
+Arunachal Pradesh,India,36
+Ashanti Region,Ghana,4
+Assam,India,1744
+Auvergne-Rhone-Alpes,France,2
+Baleares,Spain,1
+Bangkok Metropolis,Thailand,2
+Bataan,Philippines,50
+Batangas,Philippines,48
+Bauchi,Nigeria,4
+Bavaria,Germany,1
+Beijing,China,10
+Bejaia,Algeria,1
+Benguet,Philippines,32
+Bihar,India,6066
+Bimini,Bahamas,1
+Blida,Algeria,2
+British Columbia,Canada,2
+Brittany,France,1
+Bukidnon,Philippines,1
+Bulacan,Philippines,67
+Bulawayo,Zimbabwe,10
+Bulawayo Metro,Zimbabwe,2
+Cagayan,Philippines,9
+Camarines Norte,Philippines,1
+Camarines Sur,Philippines,4
+Camiguin,Philippines,1
+Canary Islands,Spain,1
+Capiz,Philippines,4
+Cavite,Philippines,112
+Cebu,Philippines,2
+Cebu Province,Philippines,190
+Chandigarh,India,498
+Chhattisgarh,India,608
+Chongqing,China,2
+Compostela Valley,Philippines,1
+Cotabato,Philippines,7
+Dadra and Nagar Haveli and Daman and Diu,India,3
+Davao Del Norte,Philippines,11
+Davao Del Sur,Philippines,123
+Davao Occidental,Philippines,1
+Davao Oriental,Philippines,1
+Davao de Oro,Philippines,1
+Davao del Sur,Philippines,2
+Delhi,India,29172
+Delta,Nigeria,4
+Dire Dawa,Ethiopia,7
+Edo,Nigeria,11
+El Oued,Algeria,2
+Emilia-Romagna,Italy,1
+Gangwon,South Korea,6
+Gansu,China,16
+Geneva,Switzerland,1
+Goa,India,110
+Gorj,Romania,1
+Greater Accra Region,Ghana,16
+Guangxi,China,2
+Guizhou,China,12
+Gujarat,India,28613
+Gwangju,South Korea,2
+Hainan,China,2
+Harare,Zimbabwe,8
+Harare Metro,Zimbabwe,9
+Haryana,India,3263
+Havana,Cuba,1
+Hebei,China,1
+Heilongjiang,China,2
+Himachal Pradesh,India,461
+Hokkaido,Japan,2
+Hong Kong,China,6
+Hubei,China,42
+Ifugao,Philippines,2
+Ile-de-France,France,4
+Ilocos Norte,Philippines,2
+Ilocos Sur,Philippines,1
+Iloilo,Philippines,1
+Iloilo Province,Philippines,37
+Isabela,Philippines,6
+Jammu and Kashmir,India,3435
+Jeju,South Korea,2
+Jharkhand,India,1032
+Jiangsu,China,86
+Jilin,China,2
+Johor,Malaysia,2
+Kaduna,Nigeria,3
+Kanagawa Prefecture,Japan,2
+Kano,Nigeria,16
+Karnataka,India,4597
+Kastina,Nigeria,2
+Katsina,Nigeria,5
+Kentucky,United States,2
+Kerala,India,1651
+Khanh Hoa,Vietnam,6
+Khenchela,Algeria,1
+Kwara,Nigeria,4
+La Union,Philippines,10
+Ladakh,India,108
+Lagos,Nigeria,153
+Laguna,Philippines,105
+Lanao Del Norte,Philippines,4
+Lanao Del Sur,Philippines,4
+Lanao del Sur,Philippines,1
+Lazio,Italy,2
+Leyte,Philippines,2
+Liaoning,China,2
+Lombardia,Italy,2
+Madhya Pradesh,India,13252
+Maguindanao,Philippines,1
+Maharashtra,India,106515
+Manipur,India,90
+Marinduque,Philippines,5
+Mascara,Algeria,2
+Mash East,Zimbabwe,4
+Mash West,Zimbabwe,2
+Matabeleland North,Zimbabwe,1
+Meghalaya,India,39
+Metro Manila,Philippines,3118
+Minnesota,United States,4
+Misamis Occidental,Philippines,5
+Misamis Oriental,Philippines,8
+Missouri,United States,2
+Mizoram,India,2
+Nagaland,India,43
+National Capital Region (NCR),Philippines,4
+Negros Occidental,Philippines,10
+Negros Oriental,Philippines,5
+New Mexico,United States,1
+New South Wales,Australia,2
+Niamey Capital District,Niger,15
+Niger,Nigeria,2
+North Chungcheong,South Korea,8
+Northern Region,Ghana,10
+Nueva Ecija,Philippines,17
+Nueva Vizcaya,Philippines,4
+Occidental Mindoro,Philippines,4
+Odisha,India,3333
+Ogun,Nigeria,2
+Ondo,Nigeria,3
+Ontario,Canada,4
+Oregon,United States,2
+Oriental Mindoro,Philippines,18
+Oromia,Ethiopia,9
+Osun,Nigeria,8
+Oyo,Nigeria,2
+Palawan,Philippines,1
+Pampanga,Philippines,21
+Pangasinan,Philippines,18
+Puducherry,India,96
+Punjab,India,4294
+Qinghai,China,16
+Qom,Iran,4
+Queensland,Australia,16
+Quezon,Philippines,19
+Rajasthan,India,14971
+Rhineland-Palatinate,Germany,2
+Rivers,Nigeria,1
+Rizal,Philippines,135
+Romblon,Philippines,1
+SNNPR,Ethiopia,1
+Samar,Philippines,17
+Sao Paulo,Brazil,4
+Sarangani,Philippines,1
+Shaanxi,China,46
+Sikkim,India,1
+Somali,Ethiopia,7
+South Australia,Australia,6
+South Cotabato,Philippines,5
+South Dakota,United States,2
+South Jeolla,South Korea,2
+State Unassigned,India,5630
+Sultan Kudarat,Philippines,3
+Sulu,Philippines,1
+Taiwan,,2
+Tamil Nadu,India,35939
+Tarlac,Philippines,1
+Tarlac Province,Philippines,9
+Telangana,India,4030
+Thanh Hoa,Vietnam,2
+Ticino,Switzerland,1
+Tizi Ouzou,Algeria,1
+Tokyo,Japan,8
+Tripura,India,612
+Ulsan,South Korea,2
+Upper West Region,Ghana,1
+Uttar Pradesh,India,13403
+Uttarakhand,India,1263
+Vaud,Switzerland,1
+Veneto,Italy,2
+Vermont,United States,1
+Vinh Phuc,Vietnam,22
+Washington,United States,38
+West Bengal,India,9460
+Wilayah Persekutuan Kuala Lumpur,Malaysia,2
+Yunnan,China,4
+Zambales,Philippines,6
+Zamboanga Del Sur,Philippines,30
+Zhejiang,China,2
